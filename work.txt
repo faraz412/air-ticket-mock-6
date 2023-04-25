@@ -1,0 +1,55 @@
+{
+    "name":"batman",
+    "email":"batman@gmail.com",
+    "password":"batman123"
+}
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NDQ3Nzc3Y2I2ZjhlNGY0M2QyZjBkMWYiLCJpYXQiOjE2ODI0MDY5NzB9.VcfjT-LsdJLxQWN0yMeT3mXG4IHCr2ujpK0kyWLyoSA
+
+{
+    "name":"flash",
+    "email":"flash@gmail.com",
+    "password":"flash123"
+}
+
+{
+    "name":"superman",
+    "email":"superman@gmail.com",
+    "password":"superman123"
+}
+
+{
+  "airline": "indigo",
+  "flightNo": "i2",
+  "departure": "mumbai",
+  "arrival": "bangalore",
+  "departureTime": "2023-04-27T23:44:56.289+00:00",
+  "arrivalTime": "2023-04-30T23:44:56.289+00:00",
+  "seats": 30,
+  "price": 2500
+}
+
+{
+  "airline": "spicejet",
+  "flightNo": "s1",
+  "departure": "kolkata",
+  "arrival": "hyderabad",
+  "departureTime": "2023-04-27T23:44:56.289+00:00",
+  "arrivalTime": "2023-04-30T23:44:56.289+00:00",
+  "seats": 30,
+  "price": 2000
+}
+
+{
+  "airline": "air india",
+  "flightNo": "ai1",
+  "departure": "bangalore",
+  "arrival": "hyderabad",
+  "departureTime": "2023-04-27T23:44:56.289+00:00",
+  "arrivalTime": "2023-04-30T23:44:56.289+00:00",
+  "seats": 30,
+  "price": 3000
+}
+
+{
+  "flightID":"644781a4fe806acc9ec58e77"
+}
